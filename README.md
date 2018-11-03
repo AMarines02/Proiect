@@ -8,6 +8,5 @@ Produsul nostru se adreseaza, in special, cinefililor de toate varstele, fiind u
 Cinefil(m) intra in competitie cu aplicatii precum [My Movies](https://www.mymovies.dk/), [Letterboxd](https://letterboxd.com/) si popularul [IMDb](https://www.imdb.com/)  (Internet Movie Database). My Movies este o aplicatie platita, atat pentru desktop, cat si pentru dispozitivele mobile. Aceasta ii permite utilizatorului sa vizioneze filmele din colectia sa. Letterboxd isi doreste sa fie vazut mai mult ca un jurnal de filme, unde persoanele interesate pot sa dea note filmelor si sa comunice cu alte persoane in functie de gusturile lor in materie cinematografica.
 
 ## Interfețe aplicație
-
-
+![alt text](https://github.com/AMarines02/Proiect/blob/master/134.jpg)
 ## API REST
