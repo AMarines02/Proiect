@@ -10,9 +10,9 @@ Cinefil(m) intra in competitie cu aplicatii precum [My Movies](https://www.mymov
 ## 2.Interfețe aplicație
 ![alt text](https://github.com/AMarines02/Proiect/blob/master/1.jpg)
 
-![alt text](https://github.com/AMarines02/Proiect/blob/master/2.jpg)
-
 ![alt text](https://github.com/AMarines02/Proiect/blob/master/3.jpg)
+
+![alt text](https://github.com/AMarines02/Proiect/blob/master/2.jpg)
 
 ![alt text](https://github.com/AMarines02/Proiect/blob/master/5.jpg)
 
